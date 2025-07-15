@@ -68,19 +68,22 @@ Com esse projeto, a empresa evoluiu nos seguintes aspectos:
 
 ## 🗂️ Estrutura do Projeto
 
-📁 apresentacao/
-└── TheLook-Fintech-Data-Analytics-Case.pdf
-
-📁 documentacao/
-├── TheLook Fintech - Documentação.pdf
-└── TheLook Fintech - Documentação.docx
-
-📁 imagens/
-└── *.png (screenshots com evidências visuais de cada etapa)
-
-📁 queries/
-└── *.sql (consultas utilizadas no projeto)
-
+thelook-fintech-data-analytics-gcp/
+│
+├── 📁 apresentacao/
+│ └── TheLook-Fintech-Data-Analytics-Case.pdf # Apresentação final do projeto
+│
+├── 📁 documentacao/
+│ ├── TheLook Fintech - Documentação.pdf # Documento oficial do projeto (versão final)
+│ └── TheLook Fintech - Documentação.docx # Versão editável da documentação
+│
+├── 📁 imagens/ # Evidências e capturas de tela
+│ └── fase_xx-nome-da-etapa.png
+│
+├── 📁 queries/ # Consultas SQL utilizadas
+│ └── nome-da-query.sql
+│
+└── README.md # Descritivo do projeto
 
 📄 [📘 Documentação (PDF)](https://github.com/DanielllCouto/thelook-fintech-data-analytics-gcp/blob/02916049df6d12208719cf859de7565ac728bc89/documentacao/TheLook%20Fintech%20-%20Documenta%C3%A7%C3%A3o.pdf)  
 🖼️ [🎞️ Apresentação do Projeto (PDF)](https://github.com/DanielllCouto/thelook-fintech-data-analytics-gcp/blob/02916049df6d12208719cf859de7565ac728bc89/apresentacao/TheLook-Fintech-Data-Analytics-Case.pdf.pdf)
