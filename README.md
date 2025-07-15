@@ -4,60 +4,42 @@ Projeto de análise de dados baseado em nuvem desenvolvido para a startup fictí
 
 ---
 
+## 👤🎲 Analista de Dados Responsável  
+
+Daniel Estrella Couto  
+[LinkedIn](https://www.linkedin.com/in/daniel-estrella-couto) • estrellacouto05@gmail.com  
+
+---
+
 ## 🚀 Visão Geral
 
 - **Setor:** Fintech / Empréstimos online
 - **Objetivo:** Suporte ao time financeiro com insights baseados em dados para controle de fluxo de caixa, risco e oportunidades
 - **Plataforma:** Google Cloud Platform (GCP)
-- **Ferramentas:** BigQuery, Looker, SQL
+### Tecnologias e Ferramentas Utilizadas  
+- **Google BigQuery**: modelagem e análise de dados em SQL  
+- **Looker (Looker Studio Enterprise)**: criação de dashboards interativos e dinâmicos  
+- **Cloud Storage / CSV**: ingestão e integração de dados externos  
+- **GitHub**: versionamento e organização do portfólio  
+- **VS Code**: criação e edição dos scripts SQL  
+- **Google Docs & Gamma.app**: documentação e apresentação final  
 
 ---
 
 ## 🎯 Resultados Alcançados
 
-**🔍 Perguntas de negócio respondidas e impactos:**
+Com esse projeto, a empresa evoluiu nos seguintes aspectos:
 
-- **Como monitorar melhor o fluxo de caixa?**  
-  → Criação de relatórios temporais e dashboards automatizados para prever saídas de capital e ajustar estratégias de liquidez.
+- **Melhor previsão de liquidez e ajuste de políticas de concessão** com o fluxo de caixa monitorado e controlado via relatórios por ano  
+- **Potencial aumento de vendas com base na análise dos motivos de empréstimos**, permitindo campanhas mais alinhadas aos interesses dos clientes  
+- **Redução do risco de inadimplência coletiva** com identificação de regiões de maior exposição  
+- **Aumento da eficiência regulatória e financeira** com o total pendente de empréstimos monitorado em tempo real  
+- **Facilidade em priorizar cobranças e renegociações** com ranking dos estados com mais inadimplência  
+- **Potencial de aumento de vendas mais robustas e seguras** com identificação de clientes com alto potencial de fidelização por meio de cruzamento entre renda, status de imóvel e empréstimos vigentes  
+- **Maior agilidade na tomada de decisão e detecção de problemas operacionais** com dashboards interativos que permitem acompanhamento contínuo da saúde da carteira de empréstimos  
+- **Melhor gestão de riscos e capacidade de resposta rápida** com automatização de indicadores críticos como valores pendentes e distribuição de status de empréstimos  
+- **Aceleração do uso estratégico de dados em toda a empresa** com construção de uma base sólida para decisões por meio de modelagem relacional e visualizações unificadas de diferentes fontes  
 
-- **Quais os principais motivos para solicitação de empréstimos?**  
-  → Análise de propósitos permitiu identificar tendências e comportamentos dos clientes, auxiliando no desenvolvimento de produtos personalizados.
-
-- **Onde estão localizados os clientes?**  
-  → Integração de dados externos para rastrear regiões críticas, reduzindo exposição geográfica e aumentando o controle de risco regional.
-
-- **Qual o valor total pendente de empréstimos?**  
-  → Monitoramento do volume de crédito pendente com alertas visuais e métricas predefinidas, fortalecendo o controle financeiro.
-
-- **Qual a porcentagem de empréstimos por status?**  
-  → Diagnóstico da saúde da carteira por categoria (“Em aberto”, “Inadimplente”, etc.), com base em visualizações de fácil interpretação.
-
-- **Quais regiões concentram os maiores volumes pendentes?**  
-  → Geração de rankings e painéis para ação direcionada em regiões com maior risco financeiro.
-
-- **Quais clientes já quitaram o imóvel e têm crédito vigente?**  
-  → Identificação de clientes com alto perfil de crédito para ofertas futuras com taxas mais competitivas.
-
----
-
-## 🔮 Potenciais Resultados Futuros com Evoluções Propostas
-
-- **Redução de inadimplência com alertas automáticos e análises preditivas**
-- **Recomendações personalizadas de crédito baseadas em comportamento**
-- **Segmentação geográfica inteligente para campanhas**
-- **Aprimoramento de taxa de concessão com modelos de scoring (ML)**
-- **Capacitação interna com sistema de dados self-service**
-
----
-
-## 🧠 Tecnologias Utilizadas
-
-- **BigQuery**: consulta e modelagem de dados em larga escala  
-- **SQL**: transformação, união e análise de dados relacionais  
-- **Looker (Enterprise)**: construção de dashboards interativos  
-- **Google Cloud Platform (GCP)**: infraestrutura de nuvem  
-- **Git e GitHub**: versionamento e documentação  
-- **VS Code**: edição e organização de queries
 
 ---
 
@@ -88,10 +70,14 @@ Projeto de análise de dados baseado em nuvem desenvolvido para a startup fictí
 
 📁 apresentacao/
 └── TheLook-Fintech-Data-Analytics-Case.pdf
+
 📁 documentacao/
 ├── TheLook Fintech - Documentação.pdf
 └── TheLook Fintech - Documentação.docx
+
 📁 imagens/
+└── *.png (screenshots com evidências visuais de cada etapa)
+
 📁 queries/
 └── *.sql (consultas utilizadas no projeto)
 
@@ -113,12 +99,15 @@ Projeto de análise de dados baseado em nuvem desenvolvido para a startup fictí
 
 ---
 
-## 👤 Autor
+## Potenciais Resultados Futuros com Evoluções Propostas  
 
-Daniel Estrella Couto  
-[LinkedIn](https://www.linkedin.com/in/daniel-estrella-couto)  
-📧 estrellacouto05@gmail.com  
-📍 Rio de Janeiro – RJ
+- Sistema de alerta automatizado para empréstimos que ultrapassem limite pré-estabelecido  
+- Alerta geográfico para aumento expressivo de inadimplência por região  
+- Integração com modelo de credit scoring (LightGBM/XGBoost) para sugestão de taxas personalizadas  
+- Chatbot com IA generativa para simulações em tempo real de crédito baseado no perfil do cliente  
+- Modelo de churn para prever inadimplência futura  
+- Dashboards de oportunidades de crédito com ingestão de dados públicos sobre novas empresas  
+- Implementação de self-service analytics para diferentes áreas da empresa  
 
 ---
 
