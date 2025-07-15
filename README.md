@@ -68,6 +68,7 @@ Com esse projeto, a empresa evoluiu nos seguintes aspectos:
 
 ## 🗂️ Estrutura do Projeto
 
+```
 thelook-fintech-data-analytics-gcp/
 │
 ├── 📁 apresentacao/
@@ -85,6 +86,7 @@ thelook-fintech-data-analytics-gcp/
 │
 └── README.md # Descritivo do projeto
 
+```
 📄 [📘 Documentação (PDF)](https://github.com/DanielllCouto/thelook-fintech-data-analytics-gcp/blob/02916049df6d12208719cf859de7565ac728bc89/documentacao/TheLook%20Fintech%20-%20Documenta%C3%A7%C3%A3o.pdf)  
 🖼️ [🎞️ Apresentação do Projeto (PDF)](https://github.com/DanielllCouto/thelook-fintech-data-analytics-gcp/blob/02916049df6d12208719cf859de7565ac728bc89/apresentacao/TheLook-Fintech-Data-Analytics-Case.pdf.pdf)
 
